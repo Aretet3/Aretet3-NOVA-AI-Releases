@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.5",
-  "versionCode": 35,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.3.5/NOVA-AI-Android-latest.apk",
-  "sha256": "C171BBD6BE2D650228CFE3287E48628BD847A81AA4112D5001B5D0C62507C4B6",
-  "notes": "Добавлен анализ фото и скриншотов: NOVA теперь понимает, что изображено, читает ошибки на фото и предлагает исправления. Фото больше не запускает генерацию картинки по умолчанию."
+  "versionName": "1.3.6",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.3.6/NOVA-AI-Android-latest.apk",
+  "sha256": "33835FE3D171CEBB616189B8CCD9E18ECA876F293D5807BFDCDE649283087742",
+  "notes": "Исправлена проверка обновлений Android: приложение теперь смотрит в новый репозиторий Aretet3 и видит следующие версии. Также сохранён анализ фото и скриншотов."
 }
