@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.9",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.3.9/NOVA-AI-Android-latest.apk",
-  "sha256": "016CB6959359A04B56A0DC23EE2589B3F95A902992D1B46FCB7DED089BCD71FE",
-  "notes": "OpenRouter через backend .env, модель openrouter/free. Updater Android переведён на jsDelivr manifest, чтобы обновления не зависели от raw.githubusercontent cache."
+  "versionName": "1.4.0",
+  "versionCode": 40,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.0/NOVA-AI-Android-latest.apk",
+  "sha256": "D4104B0C40C795EB0E5280E9FBC4714802CD5E188FD114C06406793846AE20D6",
+  "notes": "OpenRouter через backend .env, модель openrouter/free. Updater Android переведён на jsDelivr @main/latest.json для свежего manifest без raw cache."
 }
