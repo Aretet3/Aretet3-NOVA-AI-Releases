@@ -1,10 +1,9 @@
 {
-  "versionName": "1.4.8",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.8/NOVA-AI-Android-latest.apk",
-  "sha256": "16A6C80BD3D236AF1C7CF2561EBD53B3C8F9AE3B252FBC44E7EEE2F03F5F1433",
-  "notes": "Добавлен ChatGPT-like tool router для изображений: NOVA сама понимает создание/вариант/редактирование картинки. Генерация фото работает через бесплатный Pollinations image API без Puter.",
-  "cacheVersion": 1787328246
+  "versionName": "1.4.9",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.9/NOVA-AI-Android-latest.apk",
+  "sha256": "30430D8391C7E99CCCF9E69B66477169FD304427CA750BA861741DE255F68B11",
+  "notes": "Исправлена проверка обновлений: новая сборка смотрит на свежий v.json вместо закэшированного u.json jsDelivr. Включены fixes 1.4.8: image tool router и генерация фото.",
+  "cacheVersion": 1787328585
 }
-
 
