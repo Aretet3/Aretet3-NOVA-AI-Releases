@@ -1,8 +1,9 @@
 {
-  "versionName": "1.4.6",
-  "versionCode": 46,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.6/NOVA-AI-Android-latest.apk",
-  "sha256": "C22B9ADBA5ECA6997C6CE13A956DEA82E6AB24690336B29753DF8A1AE20CEA65",
-  "notes": "Исправлено Android-подключение без 127.0.0.1: надёжная проверка NOVAAndroid, OpenRouter работает прямо в APK. Возвращены старые мобильные настройки с пунктом Информация и проверкой обновлений.",
-  "cacheVersion": 1787327148
+  "versionName": "1.4.7",
+  "versionCode": 47,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.7/NOVA-AI-Android-latest.apk",
+  "sha256": "80013352328EE22974A457EC41762F6D3A6DB9B4952746B1323C0BD702152413",
+  "notes": "Исправлен голосовой режим: запись больше не висит бесконечно, фраза отправляется после паузы, добавлены таймеры тишины и максимального прослушивания.",
+  "cacheVersion": 1787327600
 }
+
