@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.5",
-  "versionCode": 55,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.5/NOVA-AI-Android-latest.apk",
-  "sha256": "6295E043004FC9FCF6F4BB0D54CDB2B241CA89A55FA9FD29BC2D40FDEB88E06B",
-  "notes": "Исправлен голосовой режим Android: native SpeechRecognizer теперь корректно останавливается после распознавания, микрофон не включается поверх ответа и не перезапускается сам после озвучки. На Android ответ озвучивается через системный TTS с полной громкостью; следующий вопрос запускается нажатием Микрофон.",
-  "cacheVersion": 1787333238
+  "versionName": "1.5.6",
+  "versionCode": 56,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.6/NOVA-AI-Android-latest.apk",
+  "sha256": "C304C4C4B719698CB6DD0C686D0E56AC7BDFDACEE9504BE9499A79E2EF0DA460",
+  "notes": "Исправлено озвучивание ответов Android: после ответа OpenRouter текст передаётся в native Android TextToSpeech через NovaAndroidTtsNative.speak(). TTS инициализируется заранее, установлен ru-RU, speech rate/pitch 1.0, используется STREAM_MUSIC, QUEUE_FLUSH прерывает предыдущую озвучку, TTS не уничтожается до закрытия приложения.",
+  "cacheVersion": 1787333904
 }
