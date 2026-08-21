@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.8",
-  "versionCode": 58,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.8/NOVA-AI-Android-latest.apk",
-  "sha256": "85222F35349FFCFB78D73072484F9FADA8245A08318415C5838F608FBAF8223F",
-  "notes": "Голосовой режим Android: микрофон больше нельзя выключить кнопкой Микрофон. Кнопка теперь только удерживает/перезапускает listening. После ответа TTS микрофон автоматически возвращается в Listening; пауза делается только на время озвучки, чтобы NOVA не слышала сама себя.",
-  "cacheVersion": 1787334763
+  "versionName": "1.5.9",
+  "versionCode": 59,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.9/NOVA-AI-Android-latest.apk",
+  "sha256": "D5ABE69705C79D16ADE893D043390EDDB212F412783684F4E54840F5C34A6F1F",
+  "notes": "Исправлен экран ошибки голосового режима Android: Java bridge теперь компилируется строго в UTF-8, поэтому русские сообщения больше не превращаются в кракозябры. ERROR_CLIENT переведён в безопасный retryable restart, UI больше не показывает сырой код ошибки, микрофон автоматически перезапускается.",
+  "cacheVersion": 1787335176
 }
