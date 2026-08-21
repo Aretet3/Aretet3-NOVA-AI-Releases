@@ -1,10 +1,11 @@
 {
-  "versionName": "1.4.5",
-  "versionCode": 45,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.5/NOVA-AI-Android-latest.apk",
-  "sha256": "A1AA2FFDFF21636A5410065B851B799CF57A9FC2F0300D3E913929DA0C5B0237",
-  "notes": "Исправлено Android-подключение: телефон больше не ищет 127.0.0.1 backend, OpenRouter работает прямо в APK. Исправлена битая иконка NOVA AI и возвращён обычный экран настроек."
+  "versionName": "1.4.6",
+  "versionCode": 46,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.6/NOVA-AI-Android-latest.apk",
+  "sha256": "C22B9ADBA5ECA6997C6CE13A956DEA82E6AB24690336B29753DF8A1AE20CEA65",
+  "notes": "Исправлено Android-подключение без 127.0.0.1: надёжная проверка NOVAAndroid, OpenRouter работает прямо в APK. Возвращены старые мобильные настройки с пунктом Информация и проверкой обновлений."
 }
+
 
 
 
