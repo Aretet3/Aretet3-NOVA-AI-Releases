@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.7",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.7/NOVA-AI-Android-latest.apk",
-  "sha256": "19BE427F5E1702E910E7574155AA77DB31A8B0E00D84280F61B30DBF5911A659",
-  "notes": "Стабилизирован голосовой цикл Android: Listening → Recognized → OpenRouter → native TTS → auto Listening через 500 мс. Добавлена защита от двойного startListening, безопасный restart SpeechRecognizer при NO_MATCH/SPEECH_TIMEOUT/RECOGNIZER_BUSY, TTS останавливает listening на время озвучки, SpeechRecognizer уничтожается только при закрытии Activity.",
-  "cacheVersion": 1787334336
+  "versionName": "1.5.8",
+  "versionCode": 58,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.8/NOVA-AI-Android-latest.apk",
+  "sha256": "85222F35349FFCFB78D73072484F9FADA8245A08318415C5838F608FBAF8223F",
+  "notes": "Голосовой режим Android: микрофон больше нельзя выключить кнопкой Микрофон. Кнопка теперь только удерживает/перезапускает listening. После ответа TTS микрофон автоматически возвращается в Listening; пауза делается только на время озвучки, чтобы NOVA не слышала сама себя.",
+  "cacheVersion": 1787334763
 }
