@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.2",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.2/NOVA-AI-Android-latest.apk",
-  "sha256": "CD65D2F2456A582600D142C585448631C6591C23FA60DFD11B0F9CD660FAC2ED",
-  "notes": "Исправлен голосовой режим Android: если WebView слышит микрофон, но не отдаёт распознанный текст, NOVA больше не уходит в бесконечное слушание. Добавлен ручной повтор через кнопку Микрофон и исправлено обрезание текста ошибки на телефоне.",
-  "cacheVersion": 1787331006
+  "versionName": "1.5.3",
+  "versionCode": 53,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.3/NOVA-AI-Android-latest.apk",
+  "sha256": "60F74DF50EF20AE2862BE54CADD723813AD1E89BE641BCF28E52701B8B4025F5",
+  "notes": "Исправлен голосовой режим Android: добавлен текстовый ввод прямо внутри NOVA Voice. Если Android WebView не распознаёт речь, кнопка Текст открывает поле, фраза отправляется в тот же голосовой диалог, а NOVA отвечает как обычно.",
+  "cacheVersion": 1787332133
 }
