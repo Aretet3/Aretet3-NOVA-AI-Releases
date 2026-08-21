@@ -1,7 +1,8 @@
 {
-  "versionName": "1.4.2",
-  "versionCode": 42,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.2/NOVA-AI-Android-latest.apk",
-  "sha256": "9D9AE5E0A68F2C46514E64475248B8DBE67530E6946CD4D93990E29D4D2D6B0A",
+  "versionName": "1.4.3",
+  "versionCode": 43,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.3/NOVA-AI-Android-latest.apk",
+  "sha256": "176721E828872B4BE648F5B4B10FE3D77F1703202CA5EEEB50143346CA84C655",
   "notes": "Бесплатный OpenRouter через NOVA backend: пользователю не нужно вводить API key. Ключ хранится только в backend .env, модель openrouter/free, добавлен дневной лимит."
 }
+
