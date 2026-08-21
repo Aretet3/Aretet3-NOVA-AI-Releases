@@ -1,9 +1,9 @@
 {
-  "versionName": "1.5.0",
-  "versionCode": 50,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.0/NOVA-AI-Android-latest.apk",
-  "sha256": "D795D008C94B2FE145DE81A061ABC02F11D7A8EF5D9B881ADE0EADC177B8C8CC",
-  "notes": "Исправлены изображения и голос: image prompt router точнее обрабатывает GTA 5/фон/превью и переводит запрос в точный prompt; голос больше не висит на слушании, если Android слышит звук, но не отдаёт текст.",
-  "cacheVersion": 1787329211
+  "versionName": "1.5.1",
+  "versionCode": 51,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.1/NOVA-AI-Android-latest.apk",
+  "sha256": "4DA7F8605D58343388DC7F718EBC7B2DE8AA08F98511EB30DEABB3113FC47548",
+  "notes": "Исправлен экран Информация на Android: текущая версия берётся из Android PackageInfo, а не из старого текста. Статус проверки обновлений синхронизируется с native updater.",
+  "cacheVersion": 1787329707
 }
 
