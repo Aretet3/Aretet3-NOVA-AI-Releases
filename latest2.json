@@ -3,10 +3,6 @@
   "versionCode": 46,
   "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.6/NOVA-AI-Android-latest.apk",
   "sha256": "C22B9ADBA5ECA6997C6CE13A956DEA82E6AB24690336B29753DF8A1AE20CEA65",
-  "notes": "Бесплатный OpenRouter через NOVA backend: пользователю не нужно вводить API key. Ключ хранится только в backend .env, модель openrouter/free, добавлен дневной лимит. Updater переключён на fresh latest2.json."
+  "notes": "Бесплатный OpenRouter через NOVA backend: пользователю не нужно вводить API key. Ключ хранится только в backend .env, модель openrouter/free, добавлен дневной лимит. Updater переключён на fresh latest2.json.",
+  "cacheVersion": 1787327148
 }
-
-
-
-
-
