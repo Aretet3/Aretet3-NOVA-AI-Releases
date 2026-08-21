@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.7",
-  "versionCode": 37,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.3.7/NOVA-AI-Android-latest.apk",
-  "sha256": "8015DA79A81D4FB181796DCF87ED135C43A1FF85BBFC20D183706E94D903E78A",
-  "notes": "Puter заменён на OpenRouter как основной AI-провайдер. Добавлено поле OpenRouter API key, бесплатная модель по умолчанию и поддержка анализа фото через OpenRouter."
+  "versionName": "1.3.8",
+  "versionCode": 38,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.3.8/NOVA-AI-Android-latest.apk",
+  "sha256": "93249FC759C1EDCB1191CE7EFD7EDAA1EC8ED77ADAE117E34559BCBD6E7152C6",
+  "notes": "OpenRouter подключён правильно: ключ хранится в .env на backend, модель по умолчанию openrouter/free. Frontend сначала использует backend-прокси server.py."
 }
