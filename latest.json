@@ -1,9 +1,10 @@
 {
-  "versionName": "1.4.7",
-  "versionCode": 47,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.7/NOVA-AI-Android-latest.apk",
-  "sha256": "80013352328EE22974A457EC41762F6D3A6DB9B4952746B1323C0BD702152413",
-  "notes": "Исправлен голосовой режим: запись больше не висит бесконечно, фраза отправляется после паузы, добавлены таймеры тишины и максимального прослушивания.",
-  "cacheVersion": 1787327600
+  "versionName": "1.4.8",
+  "versionCode": 48,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.8/NOVA-AI-Android-latest.apk",
+  "sha256": "16A6C80BD3D236AF1C7CF2561EBD53B3C8F9AE3B252FBC44E7EEE2F03F5F1433",
+  "notes": "Добавлен ChatGPT-like tool router для изображений: NOVA сама понимает создание/вариант/редактирование картинки. Генерация фото работает через бесплатный Pollinations image API без Puter.",
+  "cacheVersion": 1787328246
 }
+
 
