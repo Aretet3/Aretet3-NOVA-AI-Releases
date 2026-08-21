@@ -1,0 +1,9 @@
+{
+  "versionName": "1.4.9",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.4.9/NOVA-AI-Android-latest.apk",
+  "sha256": "30430D8391C7E99CCCF9E69B66477169FD304427CA750BA861741DE255F68B11",
+  "notes": "Исправлена проверка обновлений: новая сборка смотрит на свежий v.json вместо закэшированного u.json jsDelivr. Включены fixes 1.4.8: image tool router и генерация фото.",
+  "cacheVersion": 1787328585
+}
+
