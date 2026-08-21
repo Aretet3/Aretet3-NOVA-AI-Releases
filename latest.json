@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.4",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.4/NOVA-AI-Android-latest.apk",
-  "sha256": "34EFC6F16131930749DBCA318A2058BFCFC73F854184AB60FB66D5BD0A1EEAAE",
-  "notes": "Исправлен голосовой ввод Android: NOVA Voice теперь использует native Android SpeechRecognizer через JavaScript-мост вместо нестабильного WebView SpeechRecognition. Добавлены RecognizerIntent, onPartialResults/onResults/onError, правильное чтение RESULTS_RECOGNITION и мягкая обработка ERROR_NO_MATCH/ERROR_SPEECH_TIMEOUT без закрытия голосового режима.",
-  "cacheVersion": 1787332677
+  "versionName": "1.5.5",
+  "versionCode": 55,
+  "apkUrl": "https://github.com/Aretet3/Aretet3-NOVA-AI-Releases/releases/download/v1.5.5/NOVA-AI-Android-latest.apk",
+  "sha256": "6295E043004FC9FCF6F4BB0D54CDB2B241CA89A55FA9FD29BC2D40FDEB88E06B",
+  "notes": "Исправлен голосовой режим Android: native SpeechRecognizer теперь корректно останавливается после распознавания, микрофон не включается поверх ответа и не перезапускается сам после озвучки. На Android ответ озвучивается через системный TTS с полной громкостью; следующий вопрос запускается нажатием Микрофон.",
+  "cacheVersion": 1787333238
 }
